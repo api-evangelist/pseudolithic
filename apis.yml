@@ -43,7 +43,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-10-06'
 tags:
 - Company
 - Semiconductors
@@ -55,6 +55,8 @@ tags:
 - Power Amplifiers
 apis: []
 common:
+- url: https://www.pseudolithic.com/news
+  type: Blog
 - type: DomainSecurity
   url: security/pseudolithic-domain-security.yml
 - type: Website
